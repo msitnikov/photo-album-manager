@@ -50,5 +50,5 @@ sudo pip install pytest-html
 Use the following command to generate report:
 
 ```
-pytest --html=report.html
+pytest -v --capture=no --html=report.html
 ```

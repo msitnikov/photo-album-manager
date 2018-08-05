@@ -1,0 +1,13 @@
+adium-theme-ubuntu==0.3.4
+certifi==2018.4.16
+chardet==3.0.4
+gyp==0.1
+idna==2.7
+pipenv==2018.7.1
+pytest==3.7.1
+requests==2.19.1
+unity-lens-photos==1.0
+urllib3==1.23
+uWSGI==2.0.17.1
+virtualenv==16.0.0
+virtualenv-clone==0.3.0

@@ -1,0 +1,7 @@
+{
+  "tests/users-api-tests/get-users-api-tests/test_getUsersApi.py::TestClass": true, 
+  "tests/users-api-tests/get-users-api-tests/test_getUsersApi.py::TestClass::()::test_two": true, 
+  "tests/users-api-tests/get-users-api-tests/test_getUsersApi.py::TestStringMethods::test_isupper": true, 
+  "tests/users-api-tests/get-users-api-tests/test_getUsersApi.py::TestStringMethods::test_split": true, 
+  "tests/users-api-tests/get-users-api-tests/test_getUsersApi.py::test_func": true
+}
